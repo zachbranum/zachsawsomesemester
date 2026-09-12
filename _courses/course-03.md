@@ -1,12 +1,12 @@
 ---
 course_number: 3
-course_code: "COMM XXXX"
-course_title: "Course Title 3"
-meeting_time: "MWF 1:25–2:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Professor"
-instructor_department: "Department Name"
+course_code: "FIN 3134"
+course_title: "Financial Analytics"
+meeting_time: "TR 11:00am-12:15pm"
+location: "Robeson 101"
+instructor_name: "Alexandre Reggi Pecora"
+instructor_title: "Assistant Professor"
+instructor_department: "Finance"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
@@ -16,31 +16,21 @@ research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+Financial Analytics is a follow up course to Intro to Finance that I took last semester. we discuss topics like time value of money and stocks and bonds.
 
-## About Professor Name
+## About Alexandre Reggi Pecora
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Before geting his Ph.D. at the University of Minnesota, he worked in banking and agribusiness in his home country of Brazil.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Pecora research interest include international finance, fintech, exchange rates, banking, and the effects of frictions on financial markets.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- International Trade and the Risk in Bilateral Exchange Rates
+- Monetary Policy Transmission through the Exchange Rate Factor Structure
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Pecora has served as a speaker for finance seminars including NBER Summer Institute, Western Finance Association, and Financial Intermediation Research Society.
