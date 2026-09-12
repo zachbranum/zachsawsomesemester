@@ -1,12 +1,12 @@
 ---
 course_number: 5
-course_code: "COMM XXXX"
-course_title: "Course Title 5"
-meeting_time: "MW 3:30–4:45 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Senior Instructor"
-instructor_department: "Department Name"
+course_code: "FIN 4144"
+course_title: "International Financial Management"
+meeting_time: "TR 2:00-3:15pm"
+location: "G. Burke Johnston Student Center 104"
+instructor_name: "Yessenia C. Tellez Parrales"
+instructor_title: "Assistant Professor"
+instructor_department: "Finance"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
@@ -16,31 +16,20 @@ research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+In International Financial Management we are learning about how companies are able to do business including different countries and how exchange rates effect business strategies and revenue. 
 
-## About Professor Name
+## About Yessenia C. Tellez Parrales
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Parrales got her Ph.D. from Rice University. Her dissertation focused on empirical banking and household finance. She is from Nicaragua and has many years of finance work experience in her home country and the United States.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Parrales researches topics on on banking, household finance, financial stress, and employee behavior in financial institutions. She has done specific research on how loan officers respond to changes in attention and incentives.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Essays on Empirical Banking and Household Finance
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Her service mainly just comes from the overall teaching she provides to her students at Virginia Tech.
