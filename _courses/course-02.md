@@ -1,12 +1,12 @@
 ---
 course_number: 2
-course_code: "COMM XXXX"
-course_title: "Course Title 2"
-meeting_time: "TR 9:30–10:45 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Associate Professor"
-instructor_department: "Department Name"
+course_code: "HTM 4434"
+course_title: "Event & Experience Workshop"
+meeting_time: "MW 5:30-6:45pm"
+location: "Data and Decision Sciences 220"
+instructor_name: "Candace Fitch"
+instructor_title: "Professor"
+instructor_department: "Hospitality and Tourism Management"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
@@ -16,31 +16,20 @@ research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+Event & Experience Workshop is the capstone to the Event Management Minor and is a very unique class. The basis of the class is to work with a group the entire semester to plan and execute an event from scratch and have at least 15 people in attendance. 
 
-## About Professor Name
+## About Candace Fitch
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Fitch is a Howard Feiertag Endowed Professor of Practice and has extensive experience working in the hospitality industry.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Her main research interests are on event management, hospitality law, and food/beverage management. 
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+Since Professor Fitch is a professor of practice she does not have any publications to cite.
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Fitch is a Virginia Tech Faculty Senator representing Hospitality and Tourism Management.
