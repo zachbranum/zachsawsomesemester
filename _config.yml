@@ -12,7 +12,7 @@ description: >-
 # TODO: set `url` to your own GitHub Pages domain (e.g. "https://<your-username>.github.io"),
 # and update `baseurl` to match this repo's name: "/<repo-name>"
 url: "https://zachbranum.github.io"
-baseurl: "/zachsawesomesemester"
+baseurl: "/<zachsawesomesemester>"
 
 author: Zach Branum
 email: zacharylbranum@vt.edu
