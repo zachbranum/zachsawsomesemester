@@ -1,12 +1,12 @@
 ---
 course_number: 1
-course_code: "COMM XXXX"
-course_title: "Course Title 1"
-meeting_time: "MWF 10:10–11:00 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "CMST 4714"
+course_title: "Communication Senior Seminar"
+meeting_time: "MW 2:30–3:45 pm"
+location: "McBryde 233"
+instructor_name: "Carlos Evia Puerto"
+instructor_title: "Professor"
+instructor_department: "Communication"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
@@ -16,31 +16,24 @@ research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+In Communication Senior Seminar we are discussing a lot of current topics in the communication subject and new technologies and ideas that will be vital for us to use in our careers after college.
 
-## About Professor Name
+## About Carlos Evia
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Evia is also the Associate Dean of Strategic Initiatives and the Chief Technology Officer here at Virginia Tech. While teaching he intersects his background in technology with the skills of Communication. 
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Evia is working on research to learn more about the content turn in technical communication. He wants to teach his students how to best use AI and other new technologies in different communication fields
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Structured authoring without XML: Evaluating Lightweight DITA for technical documentation
+- Teaching Structured Authoring and DITA through Rhetorical and Computational Thinking
+- Technical Communication and the Discipline of Content: Considerations for Research, Training, and Career Readiness
+- Technical Communication and the Discipline of Content, Considerations for Research, Training, and Career Readiness
+- and more...  
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Evia supports El Centro, the Hispanic and Latinx Cultural and Community Center.
