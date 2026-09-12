@@ -1,12 +1,12 @@
 ---
 course_number: 4
-course_code: "COMM XXXX"
-course_title: "Course Title 4"
-meeting_time: "TR 2:00–3:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "CMST 3124"
+course_title: "Interpersonal Communication"
+meeting_time: "TR 12:30-1:45pm"
+location: "McBryde 238"
+instructor_name: "Nathan (Zack) Sowder"
+instructor_title: "Professor"
+instructor_department: "Communication"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
@@ -16,31 +16,20 @@ research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+Interpersonal Communication is a very discussion heavy class with some lecturing about the different types of communication styles and the different types of relationships.
 
-## About Professor Name
+## About Nathan (Zack) Sowder
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Sowder earned his B.A. from Concord University and his M.A. from Virginia Tech and now teaches a variety of communication courses here.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+He has done research on rhetorical communication and crisis discourse, and how organizations communicate.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Risky Business: A Pentadic Analysis of Two West Virginia Coal Mining Disasters
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+In addition to being a professor Sowder also serves as an advisor to communication students. 
